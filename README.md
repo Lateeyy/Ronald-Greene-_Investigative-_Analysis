@@ -20,6 +20,12 @@ The dataset contains investigative information, including false alibis reported 
 |Access_logs_large.csv (100 records)|Door access records from the estate security system|
 |Forensic_events_large.csv (5 records)|Timeline of critical forensic events|
 
+## Analytical Approach
+### 1. Data Preparation and Cleaning
+The raw CSV file was imported into Microsoft SQL Server, and the dataset was prepared for analysis by:
+- Validating the database schema, timestamps, and constraints.
+- Standardizing inconsistent formats across tables.
+- Ensuring data integrity for subsequent SQL queries and analysis.
 
 
 
