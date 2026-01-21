@@ -34,7 +34,23 @@ The raw CSV file was imported into Microsoft SQL Server, and the dataset was pre
 - Cross-referenced phone call logs with the forensic timeline to verify reported activities.
 This step helped identify anomalies and provided insights to guide further investigation and scoring.
 
-### 3. 
+### 3. Suspicious Scoring System
+A multi-factor scoring framework was developed to rank suspects based on potential inconsistencies and risk indicators:
+- Vault access during critical time windows.
+- Communication with the victim shortly before the incident.
+- Contradictions between stated alibis and actual activity.
+- Relationship-based motive indicators.
+- Abnormal movement frequency within the estate.
+This framework allowed the team to quantitatively evaluate suspect statements and behavior, highlighting individuals with higher likelihoods of providing false information.
+
+### 4. Timeline Reconstruction
+The timeline of events was reconstructed to validate suspect statements and identify discrepancies:
+- Reviewed and mapped each suspect’s location minute by minute.
+- Identified contradictions between alibis and actual locations.
+- Detected overlapping events and impossible alibis.
+- Narrowed the suspect pool by focusing on critical time windows.
+
+## Key Findings  
 
 
 
