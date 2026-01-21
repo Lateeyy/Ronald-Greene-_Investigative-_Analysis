@@ -27,5 +27,14 @@ The raw CSV file was imported into Microsoft SQL Server, and the dataset was pre
 - Standardizing inconsistent formats across tables.
 - Ensuring data integrity for subsequent SQL queries and analysis.
 
+  ### 2. Exploratory Analysis
+   During EDA, the dataset was examined to uncover patterns, inconsistencies, and potential leads:
+- Reviewed suspect alibis for logical inconsistencies.
+- Analyzed door access patterns and movement behavior throughout the course of event.
+- Cross-referenced phone call logs with the forensic timeline to verify reported activities.
+This step helped identify anomalies and provided insights to guide further investigation and scoring.
+
+### 3. 
+
 
 
