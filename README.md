@@ -51,6 +51,15 @@ The timeline of events was reconstructed to validate suspect statements and iden
 - Narrowed the suspect pool by focusing on critical time windows.
 
 ## Key Findings  
+- Timeline reconstruction identified a critical window around 20:00, during which the incident occurred.
+- Access log analysis revealed that only a small subset of suspects entered the Vault Room shortly before or after the critical time window.
+- Cross-referencing alibi statements with access and movement logs showed that multiple suspects provided false or contradictory alibis.
+- One suspect was identified as the only individual to meet all high-risk criteria, including vault access proximity, false alibi, and abnormal movement patterns.
+- Door access records showed failed entry attempts followed by successful access, suggesting deliberate effort to gain entry to restricted areas.
+- Phone call records and forensic timelines revealed inconsistencies and overlapping events, indicating possible data manipulation or post-incident activity.
+- Combined analysis significantly narrowed the suspect pool, highlighting a primary subject for further investigation.
+
+
 
 
 
