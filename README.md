@@ -59,6 +59,13 @@ The timeline of events was reconstructed to validate suspect statements and iden
 - Phone call records and forensic timelines revealed inconsistencies and overlapping events, indicating possible data manipulation or post-incident activity.
 - Combined analysis significantly narrowed the suspect pool, highlighting a primary subject for further investigation.
 
+## SQL Skills Demonstrated
+- Advanced JOIN Operations: Combined multiple tables (access logs, alibis, timelines) to accurately reconstruct suspect movements and interactions.
+- Logical Operations: Used conditional logic (CASE, boolean operators) to detect false alibis and eliminate impossible timelines.
+- Common Table Expressions (CTEs): Structured complex forensic queries into readable, step-by-step analytical layers.
+- Window Functions: Applied ranking and sequencing functions to analyze suspect activities within critical time windows.
+- Date & Time Analysis: Performed precise timestamp comparisons to identify actions occurring around the time of death.
+- Subqueries, Aggregation & Scoring: Built a multi-factor scoring and ranking model to prioritize suspects based on behavioral risk indicators.
 
 
 
